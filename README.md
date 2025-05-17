@@ -12,7 +12,6 @@
 - **Dashboard**: A dashboard to show your current financial status.
   
 
-
 ## Technologies
 
 - **Frontend**: ReactJS
