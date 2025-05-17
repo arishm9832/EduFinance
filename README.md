@@ -3,9 +3,14 @@
 
 ### A web application to manage you finances and educate you about stock market, investment and personal finance.
 
+#Applied BERT-based NLP models (BERT, FinBERT, ProsusAl FinBERT, HKUST FinBERT) to perform financial sentiment analysis on domain-specific news datasets, optimizing model performance using fine-tuning techniques.
+#Implemented advanced training strategies such as gradual unfreezing and slanted triangular learning rates to combat catastrophic forgetting and improve model generalization in sentiment classification tasks.
+#Conducted comparative analysis using accuracy and F1-score metrics, where ProsusAl FinBERT demonstrated superior results, showcasing the impact of domain-specific pre-training in financial NLP applications.
+
 
 ## Features
 - **Dashboard**: A dashboard to show your current financial status.
+  
 
 
 ## Technologies
