@@ -1,4 +1,3 @@
-# Finance_project_gen_ai
 # EduFinnanceHub
 
 ### A web application to manage you finances and educate you about stock market, investment and personal finance.
