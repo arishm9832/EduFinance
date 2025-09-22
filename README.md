@@ -1,4 +1,3 @@
-EduFinnance_Hub
 
 ### A web application to manage you finances and educate you about stock market, investment and personal finance.
 
