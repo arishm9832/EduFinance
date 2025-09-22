@@ -8,7 +8,7 @@ app.use(cors());
 app.use(
   "/huggingface",
   createProxyMiddleware({
-    target: "https://huggingface.co/spaces/Akshayram1/Stock",
+    target: "your hugging face api",
     changeOrigin: true,
     pathRewrite: { "^/huggingface": "" },
   })
