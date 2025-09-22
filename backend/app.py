@@ -26,7 +26,7 @@ def summarize_text():
     #  Sends back the summarized text as a JSON response.
     return jsonify({"response": response})
 
-NEWS_API_KEY = '460479ede489408c8da194b6638e7d16'
+NEWS_API_KEY = 'your api keys'
 
 @app.route('/news', methods=['GET'])
 def get_news():
